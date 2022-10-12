@@ -1,0 +1,6 @@
+[submodule "app/frontend"]
+	path = app/frontend
+	url = git@github.com:jhonsstn/allugator-frontend.git
+[submodule "app/backend"]
+	path = app/backend
+	url = git@github.com:jhonsstn/allugator-backend.git
