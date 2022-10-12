@@ -13,6 +13,8 @@ services:
       - SECRET=jwt_secret
       - SALT=12
       - MONGO_URL=mongodb://root:12345678@db:27017/allugator?authSource=admin
+    volumes:
+      - ./backend:/app-backend
 
   frontend:
     container_name: app-frontend
@@ -25,6 +27,8 @@ services:
     environment:
       - VITE_API_PORT=3001
       - VITE_APP_PORT=3000
+    volumes:
+      - ./frontend/:/app-frontend
 
   db:
     image: mongo:6.0.2
