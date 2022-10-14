@@ -37,7 +37,7 @@ Aplicativo disponível na url:
 
 Documentação da API na url:
 ```
-  http://localhost:3000/api/docs
+  http://localhost:3001/api/docs
 ```
 <br/><br/>
 
