@@ -1,4 +1,4 @@
-# Allugator Teste API
+# Teste técnico da Allugator
 
 API de serviço de assinatura de produtos responsável por listar, adicionar e acompanhar assinaturas.
 <br/><br/>
