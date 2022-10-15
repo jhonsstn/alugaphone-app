@@ -1,7 +1,9 @@
 # Teste técnico da Allugator
 
-API de serviço de assinatura de produtos responsável por listar, adicionar e acompanhar assinaturas.
+Aplicação fullstack composta pot uma API desenvolvida em nodejs (com [typescript](https://www.typescriptlang.org/) ) e frontend desenvolvido em React (usando [vite](https://vitejs.dev/) e [typescript](https://www.typescriptlang.org/) ).
+
 <br/><br/>
+
 
 ## Dependências
 Para iniciar o projeto sera necessário ter o Docker instalado ( Recomendado [Docker Desktop](https://docs.docker.com/desktop/) pois ja tem todas as dependências de software atualizadas ).
@@ -59,3 +61,26 @@ Mostra os logs dos containers do projeto:
 ```bash
   npm run logs
 ```
+<br/><br/>
+
+## Ferramentas utilizadas
+### Back-end
+- nodejs
+- express
+- jest
+- jsonwebtoken
+- husky
+- bcrypt
+- swagger
+- e mais...
+
+### Front-end
+- react
+- vite
+- chakra-ui
+- react-hook-forms
+- react-router-dom
+- axios
+- e mais...
+
+<br/><br/>
