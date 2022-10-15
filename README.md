@@ -11,7 +11,7 @@ Para iniciar o projeto sera necessário ter o Docker instalado ( Recomendado [Do
 
 Clone o repositório:
 ```bash
-  git clone git@github.com:jhonsstn/allugator-app.git
+  git clone --recurse-submodules git@github.com:jhonsstn/allugator-app.git
   cd allugator-app
 ```
 
@@ -45,17 +45,17 @@ Documentação da API na url:
 ## Scripts adicionais
 Remove containers:
 ```bash
-  compose:down
+  npm run compose:down
 ```
 Sobe o projeto com volumes para desenvolvimento:
 ```bash
-  compose:up:dev
+  npm run compose:up:dev
 ```
 Remove os containers de desenvolvimento:
 ```bash
-  compose:down:dev
+  npm run compose:down:dev
 ```
 Mostra os logs dos containers do projeto:
 ```bash
-  logs
+  npm run logs
 ```
