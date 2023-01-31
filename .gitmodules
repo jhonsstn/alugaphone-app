@@ -1,6 +1,6 @@
 [submodule "app/frontend"]
 	path = app/frontend
-	url = git@github.com:jhonsstn/allugator-frontend.git
+	url = git@github.com:jhonsstn/alugaphone-frontend.git
 [submodule "app/backend"]
 	path = app/backend
-	url = git@github.com:jhonsstn/allugator-backend.git
+	url = git@github.com:jhonsstn/alugaphone-backend.git

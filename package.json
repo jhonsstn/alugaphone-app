@@ -1,5 +1,5 @@
 {
-  "name": "allugator-app",
+  "name": "alugaphone-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhonsstn/allugator-app.git"
+    "url": "git+https://github.com/jhonsstn/alugaphone-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jhonsstn/allugator-app/issues"
+    "url": "https://github.com/jhonsstn/alugaphone-app/issues"
   },
-  "homepage": "https://github.com/jhonsstn/allugator-app#readme"
+  "homepage": "https://github.com/jhonsstn/alugaphone-app#readme"
 }
