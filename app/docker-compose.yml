@@ -25,6 +25,7 @@ services:
     environment:
       - VITE_API_PORT=3001
       - VITE_APP_PORT=3000
+      - VITE_API_HOST=localhost
 
   db:
     image: mongo:6.0.2
