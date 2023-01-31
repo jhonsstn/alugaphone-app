@@ -1,4 +1,4 @@
-# Teste técnico da Allugator
+# AlugaPhone App
 
 Aplicação fullstack composta por uma API desenvolvida em nodejs (com [typescript](https://www.typescriptlang.org/) ) e frontend desenvolvido em React (usando [vite](https://vitejs.dev/) e [typescript](https://www.typescriptlang.org/) ). O objetivo da projeto é criar uma aplicação onde seja possível um fluxo de cadastro/login de usuários e permitir que estes realizem a assinatura de um produto e a acompanhe.
 
@@ -13,8 +13,8 @@ Para iniciar o projeto sera necessário ter o Docker instalado ( Recomendado [Do
 
 Clone o repositório:
 ```bash
-  git clone --recurse-submodules git@github.com:jhonsstn/allugator-app.git
-  cd allugator-app
+  git clone --recurse-submodules git@github.com:jhonsstn/alugaphone-app.git
+  cd alugaphone-app
 ```
 
 Instale as dependências:
