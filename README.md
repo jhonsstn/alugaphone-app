@@ -3,6 +3,9 @@
 Aplicação fullstack composta por uma API desenvolvida em nodejs (com [typescript](https://www.typescriptlang.org/) ) e frontend desenvolvido em React (usando [vite](https://vitejs.dev/) e [typescript](https://www.typescriptlang.org/) ). O objetivo da projeto é criar uma aplicação onde seja possível um fluxo de cadastro/login de usuários e permitir que estes realizem a assinatura de um produto e a acompanhe.
 
 <br/><br/>
+## Exemplo
+[AlugaPhone App Live](https://alugaphone.vercel.app/)
+<br/><br/>
 
 
 ## Dependências
